@@ -1532,14 +1532,14 @@ ul.submenu li
 .search-butn
 {
   background: #024622;
-  border: 1px solid #3c4542;
+  border: -1px solid #3c4542;
   border-bottom-right-radius: 2px;
   border-top-right-radius: 2px;
   color: #fff;
   font-size: 100%;
-  margin: 0 0 0 601px;
+  margin: 3px 0 0 601px;
   outline: 0;
-  padding: 13px 20px 14px 20px;
+  padding: 12px 9px 11px 14px;
   position: relative;
   top: -59px;
 }
@@ -7832,7 +7832,7 @@ h1.mbv
 {
   background-color: #f6f6f6;
   background-image: none;
-  border: 3px solid #3c4542;
+  border: 1px solid #3c4542;
   border-bottom-left-radius: 0;
   border-top-left-radius: 0;
   color: #555;
