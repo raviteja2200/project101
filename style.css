@@ -331,8 +331,8 @@
   font-family: 'FontAwesome';
   font-style: normal;
   font-weight: normal;
-  src: url('/theme/css/fonts/font-awesome/fonts/fontawesome-webfont.eot?#iefix&v=4.1.0') format('embedded-opentype'),url('/theme/css/fonts/font-awesome/fonts/fontawesome-webfont.woff?v=4.1.0') format('woff'),url('/theme/css/fonts/font-awesome/fonts/fontawesome-webfont.ttf?v=4.1.0') format('truetype'),url('/theme/css/fonts/font-awesome/fonts/fontawesome-webfont.svg?v=4.1.0#fontawesomeregular') format('svg');
-  src: url('/theme/css/fonts/font-awesome/fonts/fontawesome-webfont.eot?v=4.1.0');
+  src: url('fonts/font-awesome/fonts/fontawesome-webfont.eot?v=4.1.0') format('embedded-opentype'),url('fonts/font-awesome/fonts/fontawesome-webfont.woff?v=4.1.0') format('woff'),url('fonts/font-awesome/fonts/fontawesome-webfont.ttf?v=4.1.0') format('truetype'),url('fonts/font-awesome/fonts/fontawesome-webfont.svg?v=4.1.0#fontawesomeregular') format('svg');
+  src: url('fonts/font-awesome/fonts/fontawesome-webfont..eot?#iefix&v=4.1.0');
 }
 .icon
 {
